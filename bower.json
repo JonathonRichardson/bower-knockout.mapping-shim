@@ -1,0 +1,20 @@
+{
+  "name": "knockout.mapping",
+  "homepage": "https://github.com/JonathonRichardson/bower-knockout.mapping-shim",
+  "authors": [
+    "Steve Sanderson"
+  ],
+  "description": "Object mapping plugin for Knockout",
+  "main": "dist/knockout.mapping.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "knockout": "^3.4.1"
+  }
+}
